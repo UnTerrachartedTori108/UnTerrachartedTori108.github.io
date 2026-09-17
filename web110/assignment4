@@ -1,1 +1,52 @@
+Activity 1, Link 3 (TutorialsPoint: E-mail Overview)
+Describe: E-mail stands for electronic mail. Mail, either physical or electronic, has one purpose; to distribute information 
+among people. E-mail, in contrast to its physical counterpart, is more "efficient" and "inexpensive." It's faster and cheaper 
+than regular mail. Each user of an email is assigned a unique name for their account; this is commonly called an e-mail address. 
+"Different users can send and receive messages according to the e-mail address." E-mail usually pertains to the form 
+username@domain name. The username and the domain name are separated by the @ (at) symbol. E-mail addresses are not case-sensitive 
+and spaces are not allowed in e-mail addresses. The components of an email itself, not address, are Header, Greeting, Text, and 
+Signature. An E-mail Header is the first five lines of an E-mail message. The header part comprises the following fields:
+From, is the sender's address, i.e. who sent the e-mail. Date, shows when the e-mail was sent. To, indication of the recipient's
+address i.e. to whom the e-mail was sent. Subject, the purpose of the e-mail. CC, stands for Carbon copy. It "includes those 
+recipient addresses whom we want to keep informed about but not exactly the intended recipient." BCC, stands for Black Carbon 
+Copy, used when we do not want one or more of the recipients to know that someone else was copied on the message. 
+Greeting is the opening of the actual message. Text represents the actual content of the message. Lastly, a Signature is the 
+final part of an e-mail message. It includes Name of Sender, Address, and Contact Number. The page then lists out the 
+advantages and disadvantages. The advantages aren't hard to understand. There are different means of convenience 
+(ex: reliability, speed, inexpensive, etc.). However, the disadvantages are worth mentioning in depth: "Forgery, due to the 
+sender usually not being authenticated in any way. Overloading and excessive e-mails may prevent accessibility. Junk emails, 
+i.e., spam from unknown recipients can contribute to overload. Misdirection, due to it being possible that someone may send 
+e-mails to the wrong person, or company and No Responses may be frustrating when the recipient does not read the e-mail and 
+respond on a regular basis.
+Learned: I have never heard of Carbon/ Black Carbon Copy in the context of an email.
+Envision: Being more weary of senders without proper credentials.
 
+Activity 3, Link 1 (Wikipedia: Mozilla Thunderbird)
+Describe: Mozilla Thunderbird is a "personal information manager" that is primarily used as an" e-mail client" with calendar,
+ contact book and news related functionalities. Thunderbird also features quick search, saved search folders, advanced message 
+filtering, message grouping, and tags that help manage or find messages faster. As for junk filtering, Thunderbird incorporates
+a Bayesian spam filter. In simplistic terms, Bayes are probabilistic classifiers, and in this case, that classifies spam 
+together based on commonalities. Thunderbird also incorporates permit list and SpamAssassin, which are also spam identifiers.
+Thunderbird uses many forms of standards support. POP and IMAP for basic email retrieval protocol. LDAP for address autocompletion. 
+S/MIME and OpenPGP for email encryption support as well as, authentication support using OAuth. File Formats are supported using 
+plugins "but this feature is not yet enabled due to related work in progress." "Thunderbird has integrated support for uploading 
+files to online file storage services. Users can link large files instead of attaching them directly to the email message. 
+Supported providers include Ubuntu One and Dropbox. Currently, file linking can be used through add-ons or by connecting to a 
+WebDAV provider. "Thunderbird provides security features such as TLS/SSL connections to IMAP and SMTP servers. It also offers 
+inbuilt support for secure email with digital signing and message encryption through OpenPGP (using public and private keys) or 
+S/MIME (using certificates). Any of these security features can take advantage of smart cards with the installation of 
+additional extensions." For security, "Thunderbird provides security features such as TLS/SSL connections to IMAP and SMTP 
+servers. It also offers inbuilt support for secure email with digital signing and message encryption through OpenPGP 
+(using public and private keys) or S/MIME (using certificates). Any of these security features can take advantage of smart cards 
+with the installation of additional extensions."
+Learned: I didn't anticipate how complicated email could be. It's also interesting to see statistics used in this context.
+Envision: Using Thunderbird for better security and or convenience when needing to send emails with larger files.
+
+Activity 4, Link 1 (Wikipedia: Email spoofing)
+Describe: "Email spoofing is the creation of email messages with a forged sender address. The term applies to email purporting 
+to be from an address which is not actually the sender's; mail sent in reply to that address may bounce or be delivered to an 
+unrelated party whose identity has been faked. Disposable email address or "masked" email is a different topic, providing a 
+masked email address that is not the user's normal address, which is not disclosed, but forwards mail sent to it to the user's 
+real address."
+Learned: I learned what a masked email is.
+Envision: Be more weary online, in general.
