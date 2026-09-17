@@ -1,1 +1,47 @@
+Activity 1, Link 2 (TutorialsPoint: Search Engines)
+Describe: The article first defines a search engine as a "web-based program or software application" that is 
+"designed to support users in finding information" on the Internet. A user can enter words into the search bar 
+and, based on the search, the search engine (ex: Google, Bing, DuckDuckGo, Yahoo, etc.) will show all relevant 
+information via links, documents, videos, images, etc. Simplistically, the six components of a search engine are 
+described using a web crawler, or sometimes called a spider. It goes as follows; 1. URL Frontier, 2. Fetch Module, 
+3. Parsing, 4. Content Storage, 5. Indexing, and 6. Duplicate Detection. In a more detailed means of explaining: 
+"It starts working by fetching and examining the URLs, also known as seeds. In the next step, the crawler retrieves 
+the HTML content of the pages specified in URLs. After that, it parses HTML to extract links to another page. 
+It prioritizes pages to fetch next based on criteria like content, originality, importance and crawling policies." 
+Following search engines, an Index is a database where data is organized and saved. An Index is created using 4 steps. 
+Content Processing, which, after receiving content, searches through the web for relevant information. Tokenization, text 
+is divided into "tokens" i.e. words or terms. Normalization, converting tokenized text into "lowercase, stemming, and 
+removing stop words like "and," "the," etc." Index creation, and processed tokens are used to build the index. 
+In relation, an inverted index "includes a list of terms, and for each term, a list of documents.' and Metadata Storage 
+includes document IDs and URLs. Metadata is stored alongside the index. It continues on with the "Functionalities 
+of Search Algorithm," which follows similar ideas to Index functionalities, both look for terms and then showcase 
+relevant info based on search. It then gives examples of common search engines and how they work.
+Learned: A single search is more involved than I anticipated. I wasn't aware of "tokens" in this context.
+Envision: Searching for key terms can help find more specific results
 
+Activity 5, Link 5 (Wikipedia: Environmental impact of AI.)
+Describe: The environmental impacts of AI are seemingly widespread and, unfortunately, due to this, there have been environmental
+impacts on greenhouse gas emissions "from generating electricity for data centers and computing hardware" as well as "operational
+and upstream water use, material impacts from hardware manufacturing, mining and electronic waste." Though the estimation for 
+actual effects is complicated "because results depend on how impacts are measured, including whether accounting includes only 
+model computation or also data-centre overhead, idle capacity, hardware manufacture, and local electricity supply." As these 
+issues become more of a problem, companies "have increasingly considered" having regulation for AI use. In a nutshell, it was 
+found that" AI contributes to rising electricity demand in data centres and related infrastructure." As for water emission, 
+"Using GPT-3, as an example, they estimated that training the model in Microsoft's US data centers could consume about 700,000 
+liters of onsite water and about 5.4 million liters in total. They also estimated that 10–50 medium-length GPT-3 responses could 
+consume about 500 mL of water, depending on when and where the model was deployed." That's awful, and "A 2024 study in Nature 
+Computational Science estimated that generative AI could add between 1.2 and 5 million tonnes of e-waste by 2030. AI servers 
+will generate 131.0 to 224.8 thousand tonnes of e-waste per year." With that all being said, the president doesn't see the 
+problem with AI, only viewing it as a race to win". Federal regulations have been minimal with President Trump saying on the 
+AI.gov website: "The United States is in a race to achieve global dominance in artificial intelligence. Whoever has the largest 
+AI ecosystem will set the global standards and reap broad economic and security benefits."
+Learned: The problems of AI are contributing to our world dying slowly
+Envision: I hope that enough people come to their senses before it's too late. Avoid AI where you can. It's simply no good.
+
+Activity 5, Link 8 (Archive.org: If You See Something, Save Something)
+Describe: The article instructs ways to save pages on the Wayback Machine. 1. Put a URL into the form, press the button, 
+and we save the page. 2. Install the Wayback Machine Chrome extension in your browser. Go to a page you want to archive, 
+click the icon in your toolbar, and select Save Page Now., 3. Wayback Machine JavaScript Bookmarklet that allows you to 
+quickly save a web page from any browser, 4. Visit the Archive Team site to learn more about how to volunteer with them.
+Learned: I didn't know what the Wayback Machine was, and now I do.
+Envision: Trying one of the methods to see which is the most ideal. 
