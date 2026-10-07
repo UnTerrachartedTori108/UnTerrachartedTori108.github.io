@@ -1,1 +1,55 @@
+Activity 1, Link 1 (TutorialsPoint: Internet Reference Models)
+Describe: Reference Model offers a means of standardization which is acceptable worldwide. People who use computer networks are located over a wide physical range 
+\and their network devices might have heterogeneous architecture. In order to provide communication among heterogeneous devices, we need a reference model which 
+provides people with ways to use these devices, so people can communicate regardless of their architecture. There are two reference models. OSI model and TCP/IP 
+reference mode. The OSI model is a hypothetical one, but the TCP/IP is an absolutely practical model. OSI is an acronym for Open System Interface. This model is 
+developed by the International Organization of Standardization (ISO) and is therefore also referred to as the ISO-OSI Model. The OSI model consists of seven layers. 
+Each layer has a specific function. However, each layer provides services to the layer above. In order from bottom to top, the bottom layer is the Physical Layer. 
+The Physical layer is responsible for the following activities: 1. Activating, maintaining and deactivating the physical connection. 2. Defining voltages and data 
+rates needed for transmission. 3. Converting digital bits into electrical signal. 4. Deciding whether the connection is simplex, half duplex or full duplex.
+In the following, the Data Link Layer. The data link layer performs the following functions: 1. Performs synchronization and error control for the information 
+which is to be transmitted over the physical link. 2. Enables error detection, and adds error detection bits to the data which are to be transmitted. Next is 
+Network Layer. The following are the functions of a Network Layer: 1. To route the signals through various channels to the other end. 2. To act as the network 
+controller by deciding which route data should take. 3. To divide the outgoing messages into packets and to assemble incoming packets into messages for higher 
+levels. Next is Transport Layer. The Transport layer performs the following functions: 1. It decides if the data transmission should take place on parallel 
+paths or a single path. 2. It performs multiplexing, splitting the data. 3. It breaks the data groups into smaller units so that they are handled more 
+efficiently by the network layer. 4. The Transport Layer guarantees transmission of data from one end to other end. Next is the Session Layer. The Session 
+layer performs the following functions: 1. Manages the messages and synchronizes conversations between two different applications. 2. It controls logging on 
+and off, user identification, billing and session management. Next is Presentation Layer. This layer makes sure that the information is delivered in such a 
+form that the receiving system will understand and use it. Next is Application Layer. The Application layer performs the following functions: 1. It provides 
+different services, such as manipulation of information in several ways, transferring the files of information, distributing the results etc. 2. The functions 
+such as LOGIN or password checking are also performed by the application layer.
+TCP/IP Model; a practical model and is used on the Internet.
+Learned: I learned the difference between the TCP/IP model and the ISO-OSI model.
+Envision: It's useful to know the systems with internet functionality
 
+Activity 1, Link 2 (TutorialsPoint: Internet Protocols)
+Describe: Transmission Control Protocol (TCP) is a connection oriented protocol and offers end-to-end packet delivery. It acts as a backbone for connection. 
+Transmission Control Protocol (TCP) corresponds to the Transport Layer of the OSI Model. TCP is a reliable and connection oriented protocol. TCP offers: 
+1. Stream Data Transfer. 2. Reliability. 3. Efficient Flow Control; 4. Full-duplex operation. And 5. Multiplexing. TCP offers connection oriented end-to-end 
+packet delivery. TCP ensures reliability by sequencing bytes with a forwarding acknowledgment number that indicates to the destination the next byte the source 
+expects to receive. It retransmits the bytes not acknowledged within the specified time period. TCP offers the following services to the processes in the 
+application layer: 1. Stream Delivery Service 2. Sending and Receiving Buffers 3. Bytes and Segments 4. Full Duplex Service 5. Connection Oriented Service 
+6. Reliable Service 7. Stream Delivery Service. The TCP protocol is stream oriented because it allows the sending process to send data as a stream of bytes and 
+the receiving process to obtain data as a stream of bytes. Sending and Receiving Buffers may not be possible for the sending and receiving process to produce and 
+obtain data at the same speed. Therefore, TCP needs buffers for storage at sending and receiving ends. Bytes and Segments: The Transmission Control Protocol (TCP),
+in the transport layer, groups the bytes into a packet. This packet is called a segment. Before transmission of these packets, these segments are encapsulated 
+into an IP datagram. Full Duplex Service: Transmitting the data in duplex mode means flow of data in both directions at the same time. TCP offers connection
+-oriented service in the following manner: process 1 informs TCP of process 2 and gets its approval. TCP of process 1 and TCP of process 2 and exchange data in 
+both the two directions. After completing the data exchange, when buffers on both sides are empty, the two TCPs destroy their buffers.
+Learned: I learned Transmission Control Protocol is reliable and multifaceted
+Envision: It's useful to know what consists of TCPs
+
+Activity 1, Link 3 (TutorialsPoint: Internet Domain Name System)
+Describe: When DNS was not in existence, one had to download a Host file containing host names and their corresponding IP address. But with the increase in the 
+number of hosts, the size of host files also increased. This resulted in increased traffic when downloading this file. To solve this problem, the DNS system was 
+introduced. The Domain Name System helps to resolve the host name to an address. It uses a hierarchical naming scheme and a distributed database of IP addresses 
+and associated names. An IP address is a unique logical address assigned to a machine over the network. An IP address exhibits the following properties: an IP 
+address has a unique address assigned to each host present on the Internet. The IP address is 32 bits (4 bytes) long. The IP address consists of two components: 
+a network component and a host component. Each of the 4 bytes is represented by a number from 0 to 255, separated by dots. Uniform Resource Locator (URL) refers 
+to a web address which uniquely identifies a document over the internet. There are two forms of URL: Absolute URL and Relative URL. Absolute URL is a complete 
+address of a resource on the web. This completed address consists of protocol used, server name, path name and file name. Relative URL is a partial address of 
+a webpage. Unlike an absolute URL, the protocol and server part are omitted from relative URLs. Relative URLs are used for internal links, i.e. to create links 
+to files that are part of the same website as the Web Pages on which you are placing the link.
+Learned: I learned the difference between an Absolute URL and a Relative URL
+Envision: It's useful to know the difference between IP addresses and other DNS systems
