@@ -47,6 +47,29 @@
   <h2>SQL Query</h2>
   <pre class="sql-code"><code>SELECT * FROM CUSTOMERS;</code></pre>
 
+  <h2>SQL Activity</h2>
+  <ol>
+    <li>
+      <strong>INSERT statement</strong>
+      <pre class="sql-code"><code>INSERT INTO CUSTOMERS
+(CustomerName, ContactName, Address, City, PostalCode, Country)
+VALUES
+('The Coders Café', 'Taylor Morgan', '123 Main Street', 'Boise', '83702', 'USA');</code></pre>
+    </li>
+    <li>
+      <strong>UPDATE statement</strong>
+      <pre class="sql-code"><code>UPDATE CUSTOMERS
+SET ContactName = 'Morgan Taylor',
+    City = 'Meridian'
+WHERE CustomerID = 91;</code></pre>
+    </li>
+    <li>
+      <strong>DELETE statement</strong>
+      <pre class="sql-code"><code>DELETE FROM CUSTOMERS
+WHERE CustomerID = 91;</code></pre>
+    </li>
+  </ol>
+
   <h2>Customers</h2>
   <div class="table-container">
     <table>
